@@ -1,6 +1,5 @@
 # censor-board
 
-*Note: Data updates after 12th June 2025 are based on certificate URLs contributed on the [CBFC Watch](https://cbfc.watch) contributions page*
 
 Dataset and related anlysis of modifications or cuts made by the [Central Board of Film Certification (CBFC), India](https://www.cbfcindia.gov.in/).
 
