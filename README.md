@@ -4,7 +4,8 @@
 
 Dataset and related anlysis of modifications or cuts made by the [Central Board of Film Certification (CBFC), India](https://www.cbfcindia.gov.in/).
 
-The dataset consists of two main components:
+The dataset consists of two main components: 
+## All the Data can be found in the Tags/Releases on the right pane of the repository
 
 - Raw Data: Raw category and certificate data from the CBFC website, stored in [`data/raw/`](data/raw/)
 - Processed Data: Cleaned up data enhanced with code-based and LLM-based analysis of cuts, stored in [`data/data.csv`](data/data.csv)
