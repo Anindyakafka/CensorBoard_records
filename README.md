@@ -1,4 +1,4 @@
-# censor-board-cuts
+# censor-board
 
 *Note: Data updates after 12th June 2025 are based on certificate URLs contributed on the [CBFC Watch](https://cbfc.watch) contributions page*
 
